@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](./assets/chess-header.svg)
+![header](https://raw.githubusercontent.com/MaiLuong1906/MaiLuong1906/main/assets/chess-header.svg)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=D4AF37&center=true&vCenter=true&width=620&height=40&lines=Full-Stack+Developer;Java+Spring+Boot+%7C+React+%7C+Next.js;My+code+can+be+buggy%2C+but+never+messy" alt="Typing SVG" />
