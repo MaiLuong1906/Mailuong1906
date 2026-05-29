@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mai%20Luong&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20React&descAlignY=58&descAlign=50&descSize=20&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mai%20Luong&fontSize=55&fontColor=fff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20React&descAlignY=58&descAlign=50&descSize=18)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -52,24 +52,18 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaiLuong1906&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiLuong1906&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiLuong1906&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiLuong1906&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiLuong1906&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MaiLuong1906&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=MaiLuong1906&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
@@ -78,6 +72,18 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaiLuong1906&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiLuong1906/MaiLuong1906/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiLuong1906/MaiLuong1906/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/MaiLuong1906/MaiLuong1906/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
@@ -97,4 +103,4 @@
   <img src="https://komarev.com/ghpvc/?username=MaiLuong1906&label=Profile+Views&color=blueviolet&style=flat-square" />
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
