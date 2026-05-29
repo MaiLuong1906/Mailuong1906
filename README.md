@@ -66,8 +66,10 @@
 
 ## 📊 GitHub Stats
 
-<!-- Stats card sẽ được thêm lại sau khi deploy Vercel riêng -->
-<!-- <img src="https://YOUR-VERCEL-URL.vercel.app/api?username=MaiLuong1906&show_icons=true&theme=tokyonight&hide_border=true"/> -->
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-eta-six-90.vercel.app/api?username=MaiLuong1906&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-eta-six-90.vercel.app/api/top-langs/?username=MaiLuong1906&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MaiLuong1906&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak"/>
