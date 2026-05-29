@@ -12,7 +12,7 @@
 &nbsp;
 ![Email](https://img.shields.io/badge/fanadn2019@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
 &nbsp;
-![Views](https://komarev.com/ghpvc/?username=MaiLuong1906&label=Profile+Views&color=D4AF37&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=MaiLuong1906&label=Profile+Views&color=yellow&style=flat-square)
 
 </div>
 
