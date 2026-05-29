@@ -42,7 +42,12 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaiLuong1906&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+  <!-- Trophy service temporarily unavailable - will re-add when stable -->
+  <img src="https://img.shields.io/badge/Commits-371-D4AF37?style=for-the-badge&logo=git&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PRs_Merged-18+-D4AF37?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Streak-21_days-D4AF37?style=for-the-badge&logo=fire&logoColor=white"/>
 </p>
 
 ---

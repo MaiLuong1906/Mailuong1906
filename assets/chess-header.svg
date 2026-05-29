@@ -76,7 +76,7 @@
   </text>
 
   <!-- Subtitle -->
-  <text x="430" y="136" font-size="16" font-family="Georgia,serif" text-anchor="middle" fill="#e8d5b0" opacity="0.88">&#9823; Full-Stack Developer &middot; Java &middot; React &#9823;</text>
+  <text x="430" y="136" font-size="16" font-family="Georgia,serif" text-anchor="middle" fill="#e8d5b0" opacity="0.88">&#9823; Full-Stack Developer &#183; Java &#183; React &#9823;</text>
 
   <!-- Decorative underline -->
   <line x1="240" y1="147" x2="620" y2="147" stroke="url(#gg)" stroke-width="1" opacity="0.55"/>
