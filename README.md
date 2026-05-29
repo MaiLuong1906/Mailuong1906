@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mai%20Luong&fontSize=52&fontColor=fff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20React&descAlignY=56&descAlign=50&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D6B25,50:1DB954,100:00FF87&height=200&section=header&text=Mai%20Luong&fontSize=55&fontColor=fff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20React&descAlignY=58&descAlign=50&descSize=18)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Hi%2C+I'm+Mai+Luong!;Full-Stack+Developer;Java+Spring+Boot+%7C+React+%7C+Next.js;My+code+can+be+buggy%2C+but+never+messy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=620&height=45&lines=Hi%2C+I'm+Mai+Luong!;Full-Stack+Developer;Java+Spring+Boot+%7C+React+%7C+Next.js;My+code+can+be+buggy%2C+but+never+messy" alt="Typing SVG" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaiLuong1906&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MaiLuong1906&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
 </p>
 
 <br/>
@@ -67,12 +67,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-eta-six-90.vercel.app/api?username=MaiLuong1906&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats-eta-six-90.vercel.app/api/top-langs/?username=MaiLuong1906&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-eta-six-90.vercel.app/api?username=MaiLuong1906&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats-eta-six-90.vercel.app/api/top-langs/?username=MaiLuong1906&layout=compact&langs_count=7&theme=merko&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MaiLuong1906&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=MaiLuong1906&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=39D353&fire=00FF87&currStreakLabel=39D353" alt="streak"/>
 </p>
 
 <br/>
@@ -80,7 +80,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaiLuong1906&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaiLuong1906&theme=github-compact&hide_border=true&area=true&area_color=39D353&line=39D353&point=00FF87" alt="activity graph"/>
 </p>
 
 <br/>
@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaiLuong1906&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MaiLuong1906&label=Profile+Views&color=39d353&style=flat-square" alt="profile views"/>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,50:1DB954,100:0D6B25&height=120&section=footer)
