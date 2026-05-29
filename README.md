@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mai%20Luong&fontSize=52&fontColor=fff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20React&descAlignY=56&descAlign=50&descSize=17)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mai%20Luong&fontSize=52&fontColor=fff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20React&descAlignY=56&descAlign=50&descSize=17)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -59,7 +59,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaiLuong1906&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MaiLuong1906&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
 </p>
 
 <br/>
