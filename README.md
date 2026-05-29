@@ -1,25 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mai%20Luong&fontSize=55&fontColor=fff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20React&descAlignY=58&descAlign=50&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mai%20Luong&fontSize=52&fontColor=fff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20React&descAlignY=56&descAlign=50&descSize=17)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mai+Luong!;Full-Stack+Developer;Java+Spring+Boot+%7C+React+%7C+Next.js;My+code+can+be+buggy%2C+but+never+messy" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Hi%2C+I'm+Mai+Luong!;Full-Stack+Developer;Java+Spring+Boot+%7C+React+%7C+Next.js;My+code+can+be+buggy%2C+but+never+messy" alt="Typing SVG" />
   </a>
 </p>
 
----
+<br/>
 
 ## 🙋 About Me
 
 > 3rd-year Software Engineering student at FPT University, passionate about building fullstack web applications and solving algorithmic problems.
 
-- 🎓 **FPT University** — Software Engineering
-- 🔭 Currently building: **fullstack web apps, REST APIs & microservices, management systems**
-- 🌱 Currently learning: **Microservices architecture, AWS**
-- 👯 Open to collaborate on: **open-source Java & React projects**
-- 📫 Reach me at: **fanadn2019@gmail.com**
-- ⚡ Fun fact: *My code can be buggy, but never messy* ✨
+| | |
+|---|---|
+| 🎓 | **FPT University** — Software Engineering |
+| 🔭 | Currently building **fullstack web apps, REST APIs & microservices** |
+| 🌱 | Currently learning **Microservices architecture, AWS** |
+| 👯 | Open to collaborate on **open-source Java & React projects** |
+| 📫 | **fanadn2019@gmail.com** |
+| ⚡ | *My code can be buggy, but never messy* ✨ |
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -52,55 +54,62 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<br/>
 
+## 🏆 Trophies
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MaiLuong1906&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
+</p>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiLuong1906&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiLuong1906&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MaiLuong1906&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaiLuong1906&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiLuong1906&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MaiLuong1906&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak"/>
+</p>
+
+<br/>
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaiLuong1906&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaiLuong1906&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
----
+<br/>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiLuong1906/MaiLuong1906/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiLuong1906/MaiLuong1906/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/MaiLuong1906/MaiLuong1906/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiLuong1906/MaiLuong1906/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiLuong1906/MaiLuong1906/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/MaiLuong1906/MaiLuong1906/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </p>
 
----
+<br/>
 
 ## 🤝 Connect with me
 
 <p align="center">
   <a href="mailto:fanadn2019@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>&nbsp;
   <a href="https://www.facebook.com/mai.luong.164236">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaiLuong1906&label=Profile+Views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=MaiLuong1906&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views"/>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
