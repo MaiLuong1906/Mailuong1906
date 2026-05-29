@@ -1,8 +1,6 @@
 <div align="center">
 
-✨ **Mai Văn Lượng — Personal GitHub Profile** ✨
-
-![name](https://capsule-render.vercel.app/api?type=transparent&height=110&text=Mai%20V%C4%83n%20L%C6%B0%E1%BB%A3ng&fontSize=62&fontColor=39D353&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D6B25,50:1DB954,100:00FF87&height=260&section=header&text=Mai%20V%C4%83n%20L%C6%B0%E1%BB%A3ng&fontSize=52&fontColor=fff&fontAlignY=42&desc=Personal%20GitHub%20Profile&descAlignY=62&descAlign=50&descSize=18&animation=twinkling)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=39D353&center=true&vCenter=true&width=620&height=40&lines=Full-Stack+Developer;Java+Spring+Boot+%7C+React+%7C+Next.js;My+code+can+be+buggy%2C+but+never+messy" alt="Typing SVG" />
