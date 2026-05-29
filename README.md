@@ -1,68 +1,53 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D6B25,50:1DB954,100:00FF87&height=200&section=header&text=Mai%20Luong&fontSize=55&fontColor=fff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20React&descAlignY=58&descAlign=50&descSize=18)
+<div align="center">
+
+✨ **Mai Văn Lượng — Personal GitHub Profile** ✨
+
+![name](https://capsule-render.vercel.app/api?type=transparent&height=110&text=Mai%20V%C4%83n%20L%C6%B0%E1%BB%A3ng&fontSize=62&fontColor=39D353&animation=fadeIn)
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=39D353&center=true&vCenter=true&width=620&height=40&lines=Full-Stack+Developer;Java+Spring+Boot+%7C+React+%7C+Next.js;My+code+can+be+buggy%2C+but+never+messy" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![GitHub](https://img.shields.io/badge/@MaiLuong1906-181717?style=flat-square&logo=github&logoColor=white)
+&nbsp;
+![Email](https://img.shields.io/badge/fanadn2019@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=MaiLuong1906&label=Profile+Views&color=39d353&style=flat-square)
+
+</div>
+
+---
+
+## 🌟 Giới thiệu nhanh
+
+**Fresher Full-Stack Developer** tập trung vào Java Spring Boot và React, đam mê xây dựng các ứng dụng web hiệu quả và có khả năng mở rộng.
+
+- 🔭 Hiện đang xây dựng: **Fullstack web apps, REST APIs & Microservices**
+- 🌱 Đang học: **Microservices architecture, AWS**
+- 💡 Thế mạnh: **Clean code, System design, DSA**
+- 📫 Liên hệ: **fanadn2019@gmail.com**
+
+---
+
+## 💻 Ngôn ngữ & Công nghệ
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=620&height=45&lines=Hi%2C+I'm+Mai+Luong!;Full-Stack+Developer;Java+Spring+Boot+%7C+React+%7C+Next.js;My+code+can+be+buggy%2C+but+never+messy" alt="Typing SVG" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,js,tailwind,html,mysql,postgres,redis,docker,git,github,postman,figma&perline=8" alt="skills"/>
   </a>
 </p>
 
-<br/>
+---
 
-## 🙋 About Me
-
-> 3rd-year Software Engineering student at FPT University, passionate about building fullstack web applications and solving algorithmic problems.
-
-| | |
-|---|---|
-| 🎓 | **FPT University** — Software Engineering |
-| 🔭 | Currently building **fullstack web apps, REST APIs & microservices** |
-| 🌱 | Currently learning **Microservices architecture, AWS** |
-| 👯 | Open to collaborate on **open-source Java & React projects** |
-| 📫 | **fanadn2019@gmail.com** |
-| ⚡ | *My code can be buggy, but never messy* ✨ |
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-**Tools & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-<br/>
-
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MaiLuong1906&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies"/>
 </p>
 
-<br/>
+---
 
 ## 📊 GitHub Stats
 
@@ -75,7 +60,7 @@
   <img src="https://streak-stats.demolab.com/?user=MaiLuong1906&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=39D353&fire=00FF87&currStreakLabel=39D353" alt="streak"/>
 </p>
 
-<br/>
+---
 
 ## 📈 Activity Graph
 
@@ -83,7 +68,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaiLuong1906&theme=github-compact&hide_border=true&area=true&area_color=39D353&line=39D353&point=00FF87" alt="activity graph"/>
 </p>
 
-<br/>
+---
 
 ## 🐍 Contribution Snake
 
@@ -95,9 +80,7 @@
   </picture>
 </p>
 
-<br/>
-
-## 🤝 Connect with me
+---
 
 <p align="center">
   <a href="mailto:fanadn2019@gmail.com">
@@ -106,10 +89,6 @@
   <a href="https://www.facebook.com/mai.luong.164236">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MaiLuong1906&label=Profile+Views&color=39d353&style=flat-square" alt="profile views"/>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,50:1DB954,100:0D6B25&height=120&section=footer)
