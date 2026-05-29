@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MaiLuong1906&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=39D353&fire=00FF87&currStreakLabel=39D353" alt="streak"/>
+  <img src="https://github-readme-streak-stats-self-six.vercel.app/?user=MaiLuong1906&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=39D353&fire=00FF87&currStreakLabel=39D353" alt="streak"/>
 </p>
 
 ---
