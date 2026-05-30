@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-self-six.vercel.app/?user=MaiLuong1906&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=D4AF37&fire=FFD700&currStreakLabel=D4AF37&sideLabels=D4AF37" alt="streak"/>
+  <img src="https://github-readme-streak-stats-self-six.vercel.app/?user=MaiLuong1906&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=D4AF37&fire=FFD700&currStreakLabel=D4AF37&sideLabels=D4AF37&v=1" alt="streak"/>
 </p>
 
 ---
