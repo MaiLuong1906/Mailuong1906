@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-self-six.vercel.app/?user=MaiLuong1906&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=D4AF37&fire=FFD700&currStreakLabel=D4AF37&sideLabels=D4AF37&v=1" alt="streak"/>
+  <img src="https://github-readme-streak-stats-self-six.vercel.app/?user=MaiLuong1906&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=D4AF37&fire=FFD700&currStreakLabel=D4AF37&sideLabels=D4AF37&cache_seconds=7200" alt="streak"/>
 </p>
 
 ---
@@ -77,9 +77,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaiLuong1906/MaiLuong1906/output/github-contribution-grid-snake-dark.svg?v=1"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaiLuong1906/MaiLuong1906/output/github-contribution-grid-snake.svg?v=1"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/MaiLuong1906/MaiLuong1906/output/github-contribution-grid-snake-dark.svg?v=1"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-self-six.vercel.app/snake?theme=dark&cache_seconds=7200"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-self-six.vercel.app/snake?theme=light&cache_seconds=7200"/>
+    <img alt="snake animation" src="https://github-readme-streak-stats-self-six.vercel.app/snake?theme=dark&cache_seconds=7200"/>
   </picture>
 </p>
 
